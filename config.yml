@@ -1,13 +1,13 @@
 plugin:
-  name: "DHTMaster"
+  name: "GPIrrigation"
   author: "Florent Boutin"
-  description: "Permet de faire fonctionner les capteur DHT22 GreenPi"
-  uid: "gpdht"
+  description: "Module de control pour les systèmes d'irrigation de GreenPi"
+  uid: "gpirrigation"
 
-triggers:
-  - name: "new temperature value"
+actions:
+  - name: "start irrigation"
     fields:
       - "Sensor UID"
-  - name: "new humidity value"
+  - name: "stop irrigation"
     fields:
       - "Sensor UID"
