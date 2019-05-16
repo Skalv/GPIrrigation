@@ -1,0 +1,26 @@
+{
+  "name": "gpirrigation",
+  "version": "1.0.0",
+  "description": "GreenPi irrigation system",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skalv/GPIrrigation.git"
+  },
+  "keywords": [
+    "GreenPi",
+    "irrigation",
+    "greenhouse",
+    "automation",
+    "arduino"
+  ],
+  "author": "Florent Boutin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skalv/GPIrrigation/issues"
+  },
+  "homepage": "https://github.com/Skalv/GPIrrigation#readme"
+}
