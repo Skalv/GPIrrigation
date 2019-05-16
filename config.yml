@@ -2,7 +2,8 @@ plugin:
   name: "GPIrrigation"
   author: "Florent Boutin"
   description: "Module de control pour les systèmes d'irrigation de GreenPi"
-  uid: "gpirrigation"
+  uid: "GPIrrigation"
+  migration: false
 
 actions:
   - name: "start irrigation"
